@@ -5,7 +5,7 @@ body {
   align-items: center;
   justify-content:center;
   height:110vh;
-  font-family:"Varela Round",cursive;
+  font-family:"Varela Round",Ubuntu;
   font-weight:900;
   font-size:20px;
   background:linear-gradient(cyan,magenta) no-repeat;
